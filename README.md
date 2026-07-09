@@ -6,7 +6,7 @@ Status: draft / review package. Not published for release.
 
 ## Links
 
-- Printables draft: pending
+- Printables draft: https://www.printables.com/model/1776628-esp32-gamepad
 - Original source/remix parent: https://github.com/Quinlan-S/ESP32-Gamepad
 - Maker Portal slug: `esp32-gamepad`
 
