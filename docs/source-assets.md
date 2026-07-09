@@ -1,14 +1,14 @@
 # Source assets
 
-Original source: https://github.com/Quinlan-S/ESP32-Gamepad
+Original source/remix parent: https://github.com/Quinlan-S/ESP32-Gamepad
 
-This repo tracks the Hawkridge documentation/refurbishment pass. Source code and PCB assets stay attributed to the original upstream project until a full import/refurbishment pass is approved.
+This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
 
-## Code/config candidates
+## Code, firmware, and configuration
 
 - `src/main.cpp`
 
-## PCB/electronics manufacturing candidates
+## PCB and electronics manufacturing assets
 
 - `Controller PCB and CAD files/Controller.BomDoc`
 - `Controller PCB and CAD files/Controller.PrjPcb`
