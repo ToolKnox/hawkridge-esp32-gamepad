@@ -2,196 +2,207 @@
 
 Original source/remix parent: https://github.com/Quinlan-S/ESP32-Gamepad
 
-This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
+Mirrored source snapshot: `288` files, 126.60 MiB, under `source/upstream/`.
 
-## Code, firmware, and configuration
+## Download
 
-- `src/main.cpp`
+Use GitHub's **Code → Download ZIP** button, or clone the repository. The mirrored software/PCB/source files are included under `source/upstream/`.
 
-## PCB and electronics manufacturing assets
+## Software / firmware / config files
 
-- `Controller PCB and CAD files/Controller.BomDoc`
-- `Controller PCB and CAD files/Controller.PrjPcb`
-- `Controller PCB and CAD files/Controller.PrjPcbStructure`
-- `Controller PCB and CAD files/Copy of PCB1-DESKTOP-Q.PcbDoc`
-- `Controller PCB and CAD files/Copy of PCB1.PcbDoc`
-- `Controller PCB and CAD files/History/CAMtastic1.~(1).#(Deleted).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/CAMtastic1_1.~(1).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/CAMtastic1_1.~(2).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/CAMtastic1_1.~(3).#(Deleted).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/CAMtastic1_2.~(1).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/CAMtastic1_2.~(2).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/CAMtastic1_2.~(3).#(Deleted).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Controller.~(1).BomDoc.Zip`
-- `Controller PCB and CAD files/History/Controller.~(1).PrjPcb.Zip`
-- `Controller PCB and CAD files/History/Controller.~(3).BomDoc.Zip`
-- `Controller PCB and CAD files/History/Controller.~(4).BomDoc.Zip`
-- `Controller PCB and CAD files/History/Controller.~(4).PrjPcb.Zip`
-- `Controller PCB and CAD files/History/Controller.~(5).#(Deleted).BomDoc.Zip`
-- `Controller PCB and CAD files/History/Controller.~(5).PrjPcb.Zip`
-- `Controller PCB and CAD files/History/Controller.~(6).PrjPcb.Zip`
-- `Controller PCB and CAD files/History/Controller.~(7).PrjPcb.Zip`
-- `Controller PCB and CAD files/History/Controller.~(8).PrjPcb.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(1).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(16).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(17).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(18).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(19).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(20).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(21).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(22).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(23).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(24).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(25).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(26).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(27).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(28).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(29).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(30).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(31).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(32).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(33).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(34).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(35).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(36).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(37).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(38).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(39).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(40).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(41).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(42).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(43).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(44).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(45).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(46).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/Copy of PCB1.~(47).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(1).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(11).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(12).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(13).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(14).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(15).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(16).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(17).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(18).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(19).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(2).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(20).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(21).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(22).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(23).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(24).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(25).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(26).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(27).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(28).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(29).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(3).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(30).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(31).#(Deleted).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(4).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(5).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(6).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(7).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(8).PcbDoc.Zip`
-- `Controller PCB and CAD files/History/PCB1.~(9).PcbDoc.Zip`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1-macro.APR_LIB`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.DRR`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.EXTREP`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBL`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBO`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBP`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBS`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GD1`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GG1`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GKO`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM13`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM15`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM16`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM21`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM23`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM5`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GPB`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GPT`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTL`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTO`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTP`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTS`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.LDP`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.REP`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.TXT`
-- `Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.apr`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 10-17-26 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-14-14 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-31-01 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-32-47 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-32-52 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-34-27 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-53-52 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-58-24 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-59-49 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 9-14-20 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 9-52-48 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 9-54-19 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-15-2024 12-03-08 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-15-2024 12-25-15 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-15-2024 12-27-02 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 2-19-14 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 6-32-50 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 6-35-09 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 6-55-45 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 1-12-18 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 11-20-03 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 11-46-44 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 11-48-41 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 12-01-15 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 12-23-50 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-20-2024 1-16-37 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-20-2024 9-58-51 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 11-58-22 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 11-59-06 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 6-20-16 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 7-08-24 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 10-53-45 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 11-06-09 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 11-16-18 AM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 12-00-27 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 5-31-45 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-39-49 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-40-04 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-41-42 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-42-17 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-43-23 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 3-17-46 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 3-50-19 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 3-50-57 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 5-33-55 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 5-34-38 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 5-38-40 PM.LOG`
-- `Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 7-08-08 PM.LOG`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1-macro.APR_LIB`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.DRR`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.EXTREP`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GBL`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GBO`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GBS`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GD1`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GG1`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GKO`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM13`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM15`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM16`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM21`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM23`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM5`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GPB`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GPT`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GTL`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GTO`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GTS`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.LDP`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.REP`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.TXT`
-- `Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.apr`
+- `source/upstream/.vscode/extensions.json`
+- `source/upstream/.vscode/settings.json`
+- `source/upstream/platformio.ini`
+- `source/upstream/src/main.cpp`
+
+## PCB / electronics manufacturing files
+
+- `source/upstream/Controller PCB and CAD files/Controller.BomDoc`
+- `source/upstream/Controller PCB and CAD files/Controller.PrjPcb`
+- `source/upstream/Controller PCB and CAD files/Controller.PrjPcbStructure`
+- `source/upstream/Controller PCB and CAD files/Copy of PCB1-DESKTOP-Q.PcbDoc`
+- `source/upstream/Controller PCB and CAD files/Copy of PCB1.PcbDoc`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1.~(1).#(Deleted).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1_1.~(1).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1_1.~(2).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1_1.~(3).#(Deleted).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1_2.~(1).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1_2.~(2).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/CAMtastic1_2.~(3).#(Deleted).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(1).BomDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(1).PrjPcb.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(3).BomDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(4).BomDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(4).PrjPcb.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(5).#(Deleted).BomDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(5).PrjPcb.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(6).PrjPcb.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(7).PrjPcb.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Controller.~(8).PrjPcb.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(1).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(16).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(17).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(18).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(19).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(20).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(21).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(22).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(23).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(24).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(25).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(26).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(27).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(28).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(29).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(30).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(31).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(32).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(33).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(34).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(35).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(36).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(37).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(38).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(39).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(40).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(41).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(42).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(43).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(44).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(45).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(46).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/Copy of PCB1.~(47).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(1).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(11).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(12).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(13).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(14).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(15).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(16).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(17).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(18).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(19).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(2).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(20).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(21).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(22).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(23).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(24).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(25).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(26).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(27).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(28).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(29).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(3).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(30).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(31).#(Deleted).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(4).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(5).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(6).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(7).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(8).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/History/PCB1.~(9).PcbDoc.Zip`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1-macro.APR_LIB`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.DRR`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.EXTREP`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBL`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBO`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBP`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GBS`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GD1`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GG1`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GKO`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM13`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM15`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM16`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM21`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM23`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GM5`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GPB`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GPT`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTL`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTO`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTP`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.GTS`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.LDP`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.REP`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.TXT`
+- `source/upstream/Controller PCB and CAD files/Old Project Outputs for Controller/Copy of PCB1.apr`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 10-17-26 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-14-14 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-31-01 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-32-47 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-32-52 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-34-27 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-53-52 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-58-24 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 8-59-49 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 9-14-20 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 9-52-48 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-14-2024 9-54-19 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-15-2024 12-03-08 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-15-2024 12-25-15 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-15-2024 12-27-02 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 2-19-14 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 6-32-50 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 6-35-09 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-17-2024 6-55-45 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 1-12-18 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 11-20-03 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 11-46-44 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 11-48-41 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 12-01-15 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-18-2024 12-23-50 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-20-2024 1-16-37 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-20-2024 9-58-51 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 11-58-22 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 11-59-06 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 6-20-16 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/Copy of PCB1 PCB ECO 3-4-2024 7-08-24 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 10-53-45 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 11-06-09 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 11-16-18 AM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 12-00-27 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-3-2024 5-31-45 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-39-49 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-40-04 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-41-42 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-42-17 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 1-43-23 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 3-17-46 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 3-50-19 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 3-50-57 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 5-33-55 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 5-34-38 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 5-38-40 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Logs for Controller/PCB1 PCB ECO 3-4-2024 7-08-08 PM.LOG`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1-macro.APR_LIB`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.DRR`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.EXTREP`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GBL`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GBO`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GBS`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GD1`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GG1`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GKO`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM13`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM15`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM16`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM21`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM23`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GM5`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GPB`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GPT`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GTL`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GTO`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.GTS`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.LDP`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.REP`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.TXT`
+- `source/upstream/Controller PCB and CAD files/Project Outputs for Controller/Copy of PCB1.apr`
+
+## Upstream docs
+
+- `source/upstream/README.md`
