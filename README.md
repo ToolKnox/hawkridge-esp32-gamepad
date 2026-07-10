@@ -1,6 +1,14 @@
 # ESP32 Gamepad
 
 GPL-3.0 ESP32 XInput gamepad with PCB/Gerber assets, SolidWorks/STL/STEP enclosure and button files, and BOMDoc artifacts.
+## Documentation download
+
+Download the complete build documentation/source package from this GitHub repository:
+
+- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
+- **Start here:** `README.md` for the build/install guide.
+- **Documentation pointer:** `download-documentation/README.md`.
+- **Mirrored upstream source/assets:** `source/upstream/`.
 
 ## Installation / quick start
 
@@ -75,4 +83,3 @@ https://github.com/Quinlan-S/ESP32-Gamepad
 - Full mirrored upstream source/software/PCB files: `source/upstream/`
 - Source asset index: `docs/source-assets.md`
 - Standalone install/build guide: `docs/INSTALLATION.md`
-
