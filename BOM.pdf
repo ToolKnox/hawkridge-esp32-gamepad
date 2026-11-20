@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [10 0 R 17 0 R 22 0 R 27 0 R] /Count 4 >>
+<< /Type /Pages /Kids [18 0 R] /Count 1 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,7 +16,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 6 0 obj
-<< /Length 2074 >>
+<< /Length 7714 >>
 stream
 0.0400 0.0400 0.0400 rg
 39.00 447.28 763.89 118.00 re f
@@ -46,6 +46,8 @@ stream
 0.80 w 44.00 495.28 m 797.89 495.28 l S
 0.8500 0.3600 0.1400 rg
 BT /F1 8.00 Tf 117.00 534.28 Td (B I L L   O F   M A T E R I A L S) Tj ET
+0.0400 0.0400 0.0400 rg
+113.00 500.53 183.50 28.35 re f
 1.0000 1.0000 1.0000 rg
 BT /F1 27.00 Tf 117.00 507.28 Td (ESP32 Gamepad) Tj ET
 0.8400 0.8600 0.8800 rg
@@ -68,10 +70,176 @@ BT /F1 11.00 Tf 385.19 413.28 Td (Buy me a Beer) Tj ET
 548.26 405.28 254.63 26.00 re B
 0.0000 0.2700 0.6200 rg
 BT /F1 11.00 Tf 584.83 413.28 Td (Join my club for exclusive models) Tj ET
+0.9300 0.9400 0.9500 rg
+0.6200 0.6500 0.6900 RG
+0.50 w
+39.00 372.28 763.89 19.00 re B
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 46.00 378.28 Td () Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 74.00 378.28 Td (Description) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 67.00 372.28 m 67.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 402.62 378.28 Td (Qty) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 389.00 372.28 m 389.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 462.75 378.28 Td (AliExpress) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 429.00 372.28 m 429.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 553.62 378.28 Td (Amazon \(Geniuslink\)) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 539.00 372.28 m 539.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 656.00 378.28 Td (Notes) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 649.00 372.28 m 649.00 391.28 l S
+0.0800 0.0900 0.1100 RG
+0.65 w 39.00 372.28 m 802.89 372.28 l S
+0.0800 0.1200 0.1800 rg
+39.00 354.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 359.78 Td (ELECTRONICS) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 359.78 Td (2 items) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 332.28 763.89 22.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 332.28 m 67.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 332.28 m 389.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 332.28 m 429.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 332.28 m 539.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 332.28 m 649.00 354.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 340.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 340.28 Td (ESP32 30-pin dev board) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 340.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 340.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 338.78 m 515.50 338.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 340.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 338.78 m 617.10 338.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 341.28 Td (CAD includes esp32_30pin.step.) Tj ET
+0.9650 0.9700 0.9750 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 299.28 763.89 33.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 299.28 m 67.00 332.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 299.28 m 389.00 332.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 299.28 m 429.00 332.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 299.28 m 539.00 332.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 299.28 m 649.00 332.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 312.78 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 318.28 Td (Gamepad PCB/components) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 312.78 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 312.78 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 311.28 m 515.50 311.28 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 312.78 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 311.28 m 617.10 311.28 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 319.28 Td (Controller.BomDoc exists; extract) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 309.28 Td (before affiliate linking.) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 281.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 286.78 Td (POWER) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 286.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 259.28 763.89 22.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 259.28 m 67.00 281.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 259.28 m 389.00 281.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 259.28 m 429.00 281.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 259.28 m 539.00 281.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 259.28 m 649.00 281.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 267.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 267.28 Td (PowerBoost 1000C or compatible charger/boost module) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 267.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 267.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 265.78 m 515.50 265.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 267.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 265.78 m 617.10 265.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 268.28 Td (STEP model present.) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 241.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 246.78 Td (CONTROLS) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 246.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 219.28 763.89 22.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 219.28 m 67.00 241.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 219.28 m 389.00 241.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 219.28 m 429.00 241.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 219.28 m 539.00 241.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 219.28 m 649.00 241.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 227.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 227.28 Td (12 mm push buttons/button caps) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 227.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 227.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 225.78 m 515.50 225.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 227.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 225.78 m 617.10 225.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 228.28 Td (Button cap STLs present.) Tj ET
 0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (1/4) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (1/4) Tj ET
+BT /F1 8.00 Tf 784.89 18.00 Td (1/1) Tj ET
 endstream
 endobj
 7 0 obj
@@ -81,390 +249,58 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [293.63 405.28 548.26 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.paypal.com/paypalme/TomKnox3d) >> >>
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox_1573) >> >>
+<< /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox/store) >> >>
 endobj
 10 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R] /Contents 6 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 334.28 534.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c43EM1MD?SearchText=ESP32+30-pin+dev+board) >> >>
 endobj
 11 0 obj
-<< /Length 3934 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: ESP32 Gamepad) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 509.69 537.28 Td (https://www.printables.com/model/1776628-esp32-gamepad) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 509.69 535.78 m 766.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (ELECTRONICS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (2 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 437.28 763.89 22.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 437.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 437.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 437.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 437.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 437.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 445.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (ESP32 30-pin dev board) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 445.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 445.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 443.78 m 515.50 443.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 445.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 443.78 m 617.10 443.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (CAD includes esp32_30pin.step.) Tj ET
-0.9650 0.9700 0.9750 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 404.28 763.89 33.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 404.28 m 67.00 437.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 404.28 m 389.00 437.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 404.28 m 429.00 437.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 404.28 m 539.00 437.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 404.28 m 649.00 437.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 417.78 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 423.28 Td (Gamepad PCB/components) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 417.78 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 417.78 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 416.28 m 515.50 416.28 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 417.78 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 416.28 m 617.10 416.28 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 424.28 Td (Controller.BomDoc exists; extract) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 414.28 Td (before affiliate linking.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (2/4) Tj ET
-endstream
+<< /Type /Annot /Subtype /Link /Rect [544.00 334.28 644.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/FeBd8K) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776628-esp32-gamepad) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 301.28 534.00 330.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfYBvisrZ4GixQrxGWdG3lIrTfQu7Ffs1MFy0G1wXKIsT19vcrBmRUCk5aEv75UWF4qa6lXOe1zDFA6V8D0MYjrchlFrnbJiGzkeB0ZzIJpOlAP5MkCzFLYcQxey8byxfACoJuUPxj9EyMLnsl2fMk6nHyW9fKo9yxHjVhIxSeyDjrr8BgUAHAurjGzrCEUcYwOk7dpdyT0MCI7Pjom5CZtF1GQteDIw9tcBj1c7n5uG7orjujhdp9WMnV6iZhsQkC68M5vAtmmVppiHlvJEJ0WGV9YSlKjS8NZ2WDO30pCG4LihyDufo4hfBCH4CYFOXj5lmfdPfCKYJH7B4x0msHu2wol4i6wqOzBeMAQPU4rIJvDknDCDf10Fn5xNcrazndQQ0G3LKWjXYOrADX1gsLY262asJW1DXk95KrXnYibTOwkR7KigVqk8ETfL5UFWXPWY6B2HaX9dIS2rCze35NJrPCo8bRfjS1OEo6DSe3J97M0N0CanUywoCl8ZG66E3j8eVuTgbrEY99QIt7TTCthLFGr9Sq7znu7JDuGVGwXGe95AHXFUcPmmXU5Frgq8847xrZl8Sw8mu0MGhMNlZ1LxSo7KsM69WqHTBgQLm69t2SOjntRKqg9ih3vV2EcQNuJstxfpIP4ceqQeMw6focilZKcgxlqtlLIl8rQjmSRhtU6yzHCJ) >> >>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 439.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c43EM1MD?SearchText=ESP32+30-pin+dev+board) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 301.28 644.00 330.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/i1C88) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 439.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/FeBd8K) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 261.28 534.00 279.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3ja1SOh?SearchText=PowerBoost+1000C+or+compatible+charger%2Fboost+module) >> >>
 endobj
 15 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 406.28 534.00 435.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfYBvisrZ4GixQrxGWdG3lIrTfQu7Ffs1MFy0G1wXKIsT19vcrBmRUCk5aEv75UWF4qa6lXOe1zDFA6V8D0MYjrchlFrnbJiGzkeB0ZzIJpOlAP5MkCzFLYcQxey8byxfACoJuUPxj9EyMLnsl2fMk6nHyW9fKo9yxHjVhIxSeyDjrr8BgUAHAurjGzrCEUcYwOk7dpdyT0MCI7Pjom5CZtF1GQteDIw9tcBj1c7n5uG7orjujhdp9WMnV6iZhsQkC68M5vAtmmVppiHlvJEJ0WGV9YSlKjS8NZ2WDO30pCG4LihyDufo4hfBCH4CYFOXj5lmfdPfCKYJH7B4x0msHu2wol4i6wqOzBeMAQPU4rIJvDknDCDf10Fn5xNcrazndQQ0G3LKWjXYOrADX1gsLY262asJW1DXk95KrXnYibTOwkR7KigVqk8ETfL5UFWXPWY6B2HaX9dIS2rCze35NJrPCo8bRfjS1OEo6DSe3J97M0N0CanUywoCl8ZG66E3j8eVuTgbrEY99QIt7TTCthLFGr9Sq7znu7JDuGVGwXGe95AHXFUcPmmXU5Frgq8847xrZl8Sw8mu0MGhMNlZ1LxSo7KsM69WqHTBgQLm69t2SOjntRKqg9ih3vV2EcQNuJstxfpIP4ceqQeMw6focilZKcgxlqtlLIl8rQjmSRhtU6yzHCJ) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 261.28 644.00 279.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/x4qN) >> >>
 endobj
 16 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 406.28 644.00 435.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/i1C88) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 221.28 534.00 239.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfASw53HLMOE6ycBko6H4aQ3HtOELDOqxFr1prhUsIOpUHw96Fw2DR0mnQ9t4Yq7Dhr4wKGzt00e4xbc6JqN618nnW2Izp3ZaC7gB1saOqmpdhCC7tLi1TIwLQWqqEUT5wObtZRjWGIkTEvvtSdnpHgcG42oYzC9YFyGct6nIKIEoAIIcDlYFZltyDcDBFaqNJnwz2w6ldaA28vQsNpLaYwczmnIzTl7SHGyfKHtIUFhGToYxJfnEYkKUp33tY2DZcfyDuHf5704dMm1xxHPlgyjZ8sVRlZBYFrAfrqlJXFTnOJ1VBcg8mZdEbRogLuzExIljsAmYzcw5wm8Lggxi3FX8LZQglzAE7gEnpqbj5yAeBAIrZXihxlyRlXpQgcHCSXmFhqm7OnWiiLhtkZqJbHZ5wWcdCXggFBqXLVWKhreMmOSOyuIVrUYmoQmklf5aPRhcocjLyzlb5haz2xVFyf770PTlMeEyn3uxIsRO2LMilJyJyiBQVfGNnpJYSfPqRZ6RmZQ2Mnc9iSLA9fKA5Uo2lL5fOMsG5BpsO6nXq7k0nKvBCUjvX7jCVyYuPHffXChapN5uteFXOAs7AvWKxSpNlFiE2PUotJKgWTxpkZug1Irf7637xySdpGMXm3yRtZYpzUEPjXMm5IDHvN3u2L4y9xrWPaqBC5d3ZfR1zIvYPBSc7qj) >> >>
 endobj
 17 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Contents 11 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 221.28 644.00 239.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/4NjyIa) >> >>
 endobj
 18 0 obj
-<< /Length 2845 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: ESP32 Gamepad) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 509.69 537.28 Td (https://www.printables.com/model/1776628-esp32-gamepad) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 509.69 535.78 m 766.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (POWER) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 437.28 763.89 22.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 437.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 437.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 437.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 437.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 437.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 445.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (PowerBoost 1000C or compatible charger/boost module) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 445.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 445.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 443.78 m 515.50 443.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 445.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 443.78 m 617.10 443.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (STEP model present.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (3/4) Tj ET
-endstream
-endobj
-19 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776628-esp32-gamepad) >> >>
-endobj
-20 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 439.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3ja1SOh?SearchText=PowerBoost+1000C+or+compatible+charger%2Fboost+module) >> >>
-endobj
-21 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 439.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/x4qN) >> >>
-endobj
-22 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [19 0 R 20 0 R 21 0 R] /Contents 18 0 R >>
-endobj
-23 0 obj
-<< /Length 2832 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: ESP32 Gamepad) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 509.69 537.28 Td (https://www.printables.com/model/1776628-esp32-gamepad) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 509.69 535.78 m 766.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (CONTROLS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 437.28 763.89 22.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 437.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 437.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 437.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 437.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 437.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 445.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (12 mm push buttons/button caps) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 445.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 445.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 443.78 m 515.50 443.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 445.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 443.78 m 617.10 443.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Button cap STLs present.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (4/4) Tj ET
-endstream
-endobj
-24 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776628-esp32-gamepad) >> >>
-endobj
-25 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 439.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfASw53HLMOE6ycBko6H4aQ3HtOELDOqxFr1prhUsIOpUHw96Fw2DR0mnQ9t4Yq7Dhr4wKGzt00e4xbc6JqN618nnW2Izp3ZaC7gB1saOqmpdhCC7tLi1TIwLQWqqEUT5wObtZRjWGIkTEvvtSdnpHgcG42oYzC9YFyGct6nIKIEoAIIcDlYFZltyDcDBFaqNJnwz2w6ldaA28vQsNpLaYwczmnIzTl7SHGyfKHtIUFhGToYxJfnEYkKUp33tY2DZcfyDuHf5704dMm1xxHPlgyjZ8sVRlZBYFrAfrqlJXFTnOJ1VBcg8mZdEbRogLuzExIljsAmYzcw5wm8Lggxi3FX8LZQglzAE7gEnpqbj5yAeBAIrZXihxlyRlXpQgcHCSXmFhqm7OnWiiLhtkZqJbHZ5wWcdCXggFBqXLVWKhreMmOSOyuIVrUYmoQmklf5aPRhcocjLyzlb5haz2xVFyf770PTlMeEyn3uxIsRO2LMilJyJyiBQVfGNnpJYSfPqRZ6RmZQ2Mnc9iSLA9fKA5Uo2lL5fOMsG5BpsO6nXq7k0nKvBCUjvX7jCVyYuPHffXChapN5uteFXOAs7AvWKxSpNlFiE2PUotJKgWTxpkZug1Irf7637xySdpGMXm3yRtZYpzUEPjXMm5IDHvN3u2L4y9xrWPaqBC5d3ZfR1zIvYPBSc7qj) >> >>
-endobj
-26 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 439.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/4NjyIa) >> >>
-endobj
-27 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [24 0 R 25 0 R 26 0 R] /Contents 23 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R] /Contents 6 0 R >>
 endobj
 xref
-0 28
+0 19
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000143 00000 n 
-0000000213 00000 n 
-0000000288 00000 n 
-0000000366 00000 n 
-0000002492 00000 n 
-0000002671 00000 n 
-0000002838 00000 n 
-0000003004 00000 n 
-0000003185 00000 n 
-0000007172 00000 n 
-0000007353 00000 n 
-0000007556 00000 n 
-0000007705 00000 n 
-0000008870 00000 n 
-0000009018 00000 n 
-0000009217 00000 n 
-0000012115 00000 n 
-0000012296 00000 n 
-0000012530 00000 n 
-0000012677 00000 n 
-0000012862 00000 n 
-0000015747 00000 n 
-0000015928 00000 n 
-0000017093 00000 n 
-0000017242 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000267 00000 n 
+0000000345 00000 n 
+0000008111 00000 n 
+0000008290 00000 n 
+0000008457 00000 n 
+0000008624 00000 n 
+0000008827 00000 n 
+0000008976 00000 n 
+0000010141 00000 n 
+0000010289 00000 n 
+0000010523 00000 n 
+0000010670 00000 n 
+0000011835 00000 n 
+0000011984 00000 n 
 trailer
-<< /Size 28 /Root 1 0 R >>
+<< /Size 19 /Root 1 0 R >>
 startxref
-17427
+12221
 %%EOF
